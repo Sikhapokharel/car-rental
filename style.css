@@ -1,0 +1,4 @@
+@import "./global.css";
+
+/* component css */
+@import "./component.css/header.css";
