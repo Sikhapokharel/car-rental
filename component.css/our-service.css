@@ -1,0 +1,26 @@
+.service-wrapper{
+    display: flex;
+    align-items: center;
+}
+.service-wrapper .col-2-discription .content{
+    display: flex;
+    gap: 32px;
+}
+.col-2-discription .title h1{
+    color: #21408E;
+    font-family: 'DM Serif Display', serif;
+}
+.service-wrapper .content .discription{
+    width: 354px;
+    margin-right: 120px;
+}
+.service-wrapper .content .discription p{
+    font-size: 20px;
+}
+.service-wrapper .content .discription h4{
+    font-size: 26px;
+    color: black;
+}
+.service-wrapper .content{
+    margin-top:55px ;
+}

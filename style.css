@@ -2,3 +2,7 @@
 
 /* component css */
 @import "./component.css/header.css";
+@import "./component.css/hero-section.css";
+@import "./component.css/button.css";
+@import "./component.css/book-car.css";
+@import "./component.css/our-service.css";

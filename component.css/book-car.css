@@ -1,0 +1,28 @@
+.booking-wrapper{
+    background-color: #C4C4C4;
+    margin-bottom: 100px;
+}
+.booking-wrapper .content{
+    padding: 25px 55px 25px 45px;
+}
+.booking-wrapper .content .discription p{
+    max-width: 750px;
+    margin: 5px 0 45px 0;
+}
+.booking-wrapper .content .input-box .input img{
+    background-color: #fff;
+    padding: 15px 30px 15px 240px;
+    border-radius: 25px;
+}
+.booking-wrapper .content .input-box .vote img{
+    padding: 13px 30px 13px 240px;
+}
+.booking-wrapper .content .input-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.booking-wrapper .content .input-box .btn-wrap .btn-primary{
+    padding: 14px 40px;
+    border-radius: 25px;
+}

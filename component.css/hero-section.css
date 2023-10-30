@@ -1,0 +1,18 @@
+.hero-wrapper{
+    background-image: url("../images/banner_lambo_1.png");
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+    margin-bottom: 75px;
+}
+.hero-wrapper .discription{
+    padding: 300px 20px 70px 1000px;
+}
+.hero-wrapper .discription h3{
+    color:black;
+}
+.hero-wrapper .discription p{
+    color:black;
+    margin: 18px 0 20px 0;
+}

@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.btn-primary {
+    border: 1px solid #21408E;
+    background-color: #21408E;
+    color: #ffffff;
+}
+.btn:hover{
+    background-color: #5C72A9;
+    color: #000;
+}
