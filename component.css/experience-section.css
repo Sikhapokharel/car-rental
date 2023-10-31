@@ -1,0 +1,20 @@
+.experience-wrap{
+
+}
+.experience-wrap .col-1 h1{
+    text-align: center;
+}
+.experience-wrap .col-2 .col-2-row{
+    width: 354px;
+    text-align: center;
+}
+
+.experience-wrap .media{
+    position: relative;
+}
+.experience-wrap .media .front-img{
+    position: absolute;
+    left: 41%;
+    top: 18%;
+    
+}

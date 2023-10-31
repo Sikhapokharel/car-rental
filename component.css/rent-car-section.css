@@ -1,0 +1,15 @@
+.rent-car-wrap .col-1 h1{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.rent-car-wrap .col-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rent-car-wrap{
+    margin-bottom: 100px;
+}
+.card-4 .title {
+    padding: 25px 42px 55px 42px;
+}
