@@ -1,0 +1,55 @@
+.email-subscription-wrap {
+    background-image: url("../images/driver-1\ 1.png");
+    margin: 120px 0;
+    background-repeat: no-repeat;
+}
+
+.email-subscription-wrap .content {
+    padding: 50px 0 62px 36px;
+}
+
+.email-subscription-wrap .content .col-1 h1 {
+    color: #fff;
+}
+
+.email-subscription-wrap .content .col-2 .col-2-title p {
+    color: #fff;
+    margin-top: 120px;
+    font-size: 30px;
+}
+.email-box{
+    display: flex;
+    align-items: center;
+    padding: 8px 8px 8px 24px;
+    border-radius: 10px;
+    background: #E5E5E5;
+    justify-content: space-between;
+    width: 900px;
+
+}
+
+.email-box p{
+    color: rgba(0, 0, 0, 0.35);
+    font-size: 30px;
+    font-weight: 500;
+}
+.email-box .btn-primary{
+    padding: 14px 34px;
+    border-radius: 6px;
+}
+
+/* news letter subscription starts here */
+.news-letter-wrap{
+    background-color: #F1BC00;
+}
+.news-letter-wrap .content h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.news-letter-wrap .content .email-box{
+    margin: auto;
+    
+}
+.news-letter-wrap .content{
+    padding: 40px 0;
+}
